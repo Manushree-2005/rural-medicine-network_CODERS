@@ -20,7 +20,7 @@ A full-stack healthcare platform designed for rural areas to manage pharmacy ser
 ## ⚙️ Setup Instructions
 
 ### Backend
-```bash
+```bash id="setup1"
 cd backend
 npm install
 npm start
